@@ -4,7 +4,7 @@
     "rank": "409", 
     "type": "Full App", 
     "contributed_by": "Community", 
-    "repo_url": "https://github.com/redis-developer/ri-redis-hackathon-2021", //This is the Gitub Repo's URL.
+    "repo_url": "https://github.com/redis-developer/ri-redis-hackathon-2021", 
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/ri-redis-hackathon-2021/master/images/app_preview_image.png",
     "download_url": "https://github.com/redis-developer/ri-redis-hackathon-2021/archive/refs/heads/main.zip",
     "hosted_url": "", 
