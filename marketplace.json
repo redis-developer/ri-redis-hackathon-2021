@@ -23,7 +23,7 @@
         "SUBSCRIBE"
     ], 
     "redis_features": ["caching"],
-    "redis_modules": ["RediJSON"], 
+    "redis_modules": ["RedisJSON"], 
     "app_image_urls": [
         "https://github.com/redis-developer/ri-redis-hackathon-2021/blob/main/docs/architecture.png",
         "https://github.com/redis-developer/ri-redis-hackathon-2021/blob/main/docs/caas-template-ui.png"
