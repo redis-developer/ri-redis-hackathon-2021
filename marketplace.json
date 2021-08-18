@@ -37,6 +37,6 @@
     ], 
     "youtube_url": "", 
     "special_tags": ["Hackathon"], 
-    "verticals": ["Technology"], 
+    "verticals": ["Others"], 
     "markdown": "https://raw.githubusercontent.com/redis-developer/ri-redis-hackathon-2021/main/README.md", 
 }
