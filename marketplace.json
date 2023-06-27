@@ -29,8 +29,8 @@
         "PUBLISH",
         "SUBSCRIBE"
     ], 
-    "redis_features": ["caching"],
-    "redis_modules": ["RedisJSON"], 
+    "redis_use_cases": ["caching"],
+    "redis_features": ["JSON"], 
     "app_image_urls": [
         "https://github.com/redis-developer/ri-redis-hackathon-2021/blob/main/docs/architecture.png",
         "https://github.com/redis-developer/ri-redis-hackathon-2021/blob/main/docs/caas-template-ui.png"
@@ -38,5 +38,5 @@
     "youtube_url": "", 
     "special_tags": ["Hackathon"], 
     "verticals": ["Others"], 
-    "markdown": "https://raw.githubusercontent.com/redis-developer/ri-redis-hackathon-2021/main/README.md", 
+    "markdown": "https://raw.githubusercontent.com/redis-developer/ri-redis-hackathon-2021/main/README.md"
 }
